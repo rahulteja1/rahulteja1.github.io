@@ -1,39 +1,63 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, R, SQL, AWS, Tableau, PowerBI
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education						       		
+- M.S., Data Science	| Michigan Technological University (_April 2024_)	 			        		
+- B.S., Information Technology | Sreenidhi Institute of Science and Technology (_June 2022_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Science Intern @ Pitney Bowes (_July 2023 - August 2023_)**
+- Developed and Implemented time series forecasting models, such as auto ARIMA, and Prophet, to accurately predict sales trends.
+- Implemented a robust back testing framework involving extensive historical data testing to validate the sales forecasting model's accuracy and performance, ensuring reliability and effectiveness. accuracy and performance, ensuring reliability and effectiveness.
+- Utilized the Joblib parallel processing library, including Parallel and delayed, to accelerate back testing, reducing evaluation time for multiple forecasting models against historical sales data.
+  
+**IT Engineer Intern @ Vinx Innovation Tech Solutions (_April 2021 - June 2021_)**
+- Developed a highly predictive neural network model by integrating seven vehicle speed and road grade predictors.
+- Achieved significant accuracy and efficiency improvements over traditional regression methods.
+- Demonstrated expertise in machine learning, data analysis, and practical application of advanced algorithms for fuel consumption optimization in large vehicles.
+
+**IT Engineer Intern @ Smart Bridge Company (_April 2020 - May 2020_)**
+- Created an Intelligent Alert System using Python and Machine Learning to safeguard forest tribal communities by accurately detecting wild vs. domestic animals.
+- Utilized advanced deep learning models and computer vision techniques for precise species identification.
+- Collaborated with a research team, actively contributing insights for successful deployment.
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Debt Repayment Outlook Tool
+- Developed advanced predictive model for identifying high-risk loan defaulters, integrating diverse data sources & sophisticated ML algorithms.
+- Conducted thorough data preprocessing, including missing value handling, duplicate removal, and feature engineering.
+- Explored and implemented both linear and non-linear classification models, optimizing parameters for enhanced performance.
+- Evaluated model performance using metrics such as ROC, sensitivity, specificity, and accuracy, identifying top-performing Logistic Regression and Penalized models.
+- Provided actionable insights on variable importance, aiding responsible lending practices and financial stability.
+
+### Time Series Forecasting for Mortality
+- Analyzed the CDC's National Vital Statistics System dataset to identify causes of mortality in the US.
+- Using advanced ML techniques, I developed a regression dataset for time-series forecasting of mortality rates.
+- The evaluation of model performance aimed to enhance public health outcomes through evidence-based decision-making and fostering
+healthcare innovation.
+
+### Music Generation Using LSTM
+- Experienced in preparing and analyzing large datasets of MIDI files for machine learning models.
+- Using Python, TensorFlow, and Keras, I developed an LSTM deep neural network model for piano music analysis, optimizing its performance with Adamax and RMSprop algorithms.
+- To assess the model's performance, I evaluated it using the categorical cross-entropy loss. Project: Husky Voice (Information Systems Management and Data Analyst – team of 8)
+- Developed a voice assistant for MTU that streamlines coursework management and enhances productivity.
+- Integrated advanced features, such as personalized insights, transport timetables, and weather updates.
+- Conducted user feedback surveys to enhance effectiveness and identify preferred features, contributing to ongoing efforts to improve student success.
+
+### Fraud Detection using OpenCV
+- Developed a phishing detection system using machine learning algorithms, OpenCV, scikit-image, and Python.
+- The system compares logos and User Interface elements on web pages with an existing dataset, employing the Structural Similarity Index (SSIM) method to detect image differences.
+- This implementation contributes to the ongoing efforts to combat online fraud and credit card fraud. 
+
+### RFM Analysis for Customer Segmentation
+- Applied RFM and K-Means on Online Retail II data, resolving issues and finding optimal clusters with the Elbow method.
+- Communicated insights through scatter plots, histograms, and compared K-Means and Agglomerative clustering using metrics like silhouette analysis and Rand Index.
+- Demonstrated strong data analysis, problem-solving, communication, and critical evaluation skills.
 
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
--
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+1.  Rahul B., Tripti S., Rayaleswar M., Vaishnavi J., Surya T., Goutham T., Sahithi B., Praneeth K. – “Husky Voice - An Innovative Voice Assistant”,
+2023 MBAA International Conference (Accepted for publication).
+2. Rahul B., Nagaraju M., "Digital Handwriting Recognition using Hand Tracking by using Media Pipe and OpenCV Libraries," International Journal for Research in Applied Science and Engineering Technology, (https://www.ijraset.com)
+
