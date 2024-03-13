@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Teja Bolloju</h1>
+
 
 <h3 align="center">Data Science Explorer: Unveiling Insights Through Analytics</h3>
 
