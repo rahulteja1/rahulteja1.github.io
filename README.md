@@ -1,6 +1,6 @@
-# Data Scientist
+# <h1 align="center">Hi 👋, I'm Rahul Teja Bolloju</h1>
 
-<h1 align="center">Hi 👋, I'm Rahul Teja Bolloju</h1>
+<! -- <h1 align="center">Hi 👋, I'm Rahul Teja Bolloju</h1> --> 
 <h3 align="center">Data Science Explorer: Unveiling Insights Through Analytics</h3>
 
 <img align="right" width="300" src="https://github.com/rahulteja1/rahulteja1/assets/98079530/1317ae78-d335-48ec-b49e-d0dc9e1b2de1">
