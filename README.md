@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Sales forecasting and forecasting models**
 
-- 📫 How to reach me **b.rahulteja01@gmail.com**
+- 📫 How to reach me **b.rahulteja01@gmail.com** 
 
 - ⚡ Fun fact **I'm a skilled 8-ball pool player and once cleared the table with a trick shot that left everyone at the table in awe—definitely a memorable game!**
 
