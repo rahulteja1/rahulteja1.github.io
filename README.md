@@ -40,16 +40,18 @@
 - Performed a robust back testing framework involving extensive historical data testing to validate the sales forecasting model's accuracy and performance, ensuring reliability and effectiveness.
 - Implemented XGBoost model to predict defaulters, yielding a commendable 0.76 AUC score, thereby enhancing professional strategies for engaging high-risk customers.
   
-**IT Engineer Intern @ Vinx Innovation Tech Solutions (_April 2021 - June 2021_)**
-- Developed a highly predictive neural network model by integrating seven vehicle speed and road grade predictors.
-- Achieved significant accuracy and efficiency improvements over traditional regression methods.
-- Demonstrated expertise in machine learning, data analysis, and practical application of advanced algorithms for fuel consumption optimization in large vehicles.
+**Data Analyst @ Vinx Innovation Tech Solutions (_April 2021 - June 2021_)**
+- Spearheaded the development of individualized machine learning models tailored to optimize fuel consumption for heavy vehicles, pioneering the utilization of vehicle travel distance as a key predictor.
+- Integrated seven predictive variables, including vehicle speed and road grade, into a highly accurate neural network architecture, enhancing the precision of fuel consumption predictions.
+- Conducted comprehensive evaluations of different window sizes for aggregating predictors over fixed distances traveled, optimizing fuel consumption predictions for routes encompassing city and highway duty cycle segments.
+- Achieved exceptional predictive performance with a 1 km window size, attaining a coefficient of determination of 0.91 and mean absolute percent error below 4%.
 
-**IT Engineer Intern @ Smart Bridge Company (_April 2020 - May 2020_)**
-- Created an Intelligent Alert System using Python and Machine Learning to safeguard forest tribal communities by accurately detecting wild vs. domestic animals.
-- Utilized advanced deep learning models and computer vision techniques for precise species identification.
-- Collaborated with a research team, actively contributing insights for successful deployment.
-
+**IT Engineer @ Smart Bridge Company (_April 2020 - May 2020_)**
+- Led the development and implementation of an Intelligent Alert System for forest tribal communities, leveraging neural networks and camera technology to detect and alert people to the presence of dangerous predators in real-time.
+- Demonstrated ability in machine learning and computer vision techniques, including training Convolutional Neural Networks (CNNs) to accurately identify and classify wildlife species from camera feeds, ensuring the reliability and effectiveness of the alerting system.
+- Identified and addressed challenges associated with deploying technology in remote forest environments, such as optimizing camera placement, mitigating false positives, and ensuring robustness against environmental factors.
+- Worked closely with interdisciplinary teams, including wildlife experts, engineers, and local community members, to gather insights, develop solutions, and help the successful implementation of the Intelligent Alert System, effectively communicating technical concepts to diverse stakeholders.
+- Delivered tangible results by significantly enhancing the safety and security of forest tribal communities, reducing the risk of wildlife-related incidents, and safeguarding valuable resources through the timely detection and alerting of dangerous predators
 
 ## Projects
 ### Enhancing Gas Station Customer Experience through Waiting Time Analysis and Innovation 
