@@ -27,7 +27,7 @@
 
 
 
-#### Technical Skills: Python, R, SQL, AWS, Tableau, PowerBI
+#### Technical Skills: Python, R, SQL, AZURE, AWS, Tableau, PowerBI
 
 ## Education						       		
 - M.S., Data Science	| Michigan Technological University (_April 2024_)	 			        		
