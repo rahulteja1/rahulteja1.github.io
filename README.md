@@ -31,13 +31,16 @@
 
 ## Education						       		
 - M.S., Data Science	| Michigan Technological University (_April 2024_)	 			        		
-- B.S., Information Technology | Sreenidhi Institute of Science and Technology (_June 2022_)
 
 ## Work Experience
 **Data Science Intern @ Pitney Bowes (_July 2023 - August 2023_)**
-- Developed and Implemented time series forecasting models, such as auto ARIMA, and Prophet, to accurately predict sales trends.
-- Implemented a robust back testing framework involving extensive historical data testing to validate the sales forecasting model's accuracy and performance, ensuring reliability and effectiveness. accuracy and performance, ensuring reliability and effectiveness.
-- Utilized the Joblib parallel processing library, including Parallel and delayed, to accelerate back testing, reducing evaluation time for multiple forecasting models against historical sales data.
+- Developed SQL queries to extract sales data from Snowflake for Python-based data analysis, optimizing data retrieval processes for efficiency and accuracy.
+- Developed and implemented time series forecasting models, such as auto ARIMA and Prophet, to accurately predict sales trends for a period of six months.
+- Utilized the Joblib parallel processing library, including the Parallel and delayed features, to accelerate back testing, reducing evaluation time for multiple forecasting models against historical sales data.
+- Performed a robust back testing framework involving extensive historical data testing to validate the sales forecasting model's accuracy and performance, ensuring reliability and effectiveness.
+- Implemented XGBoost model to predict defaulters, yielding a commendable 0.76 AUC score, thereby enhancing professional strategies for engaging high-risk customers.
+![image](https://github.com/rahulteja1/rahulteja1.github.io/assets/98079530/f6cbd943-ba1d-4fd0-9016-3c8694f48540)
+
   
 **IT Engineer Intern @ Vinx Innovation Tech Solutions (_April 2021 - June 2021_)**
 - Developed a highly predictive neural network model by integrating seven vehicle speed and road grade predictors.
@@ -51,6 +54,13 @@
 
 
 ## Projects
+### Enhancing Gas Station Customer Experience through Waiting Time Analysis and Innovation 
+- Spearheaded a project to enhance customer satisfaction at Houghton gas stations by reducing waiting times.
+- Conducted on-site observations, personally collected data by waiting at various gas stations to understand peak hours and service bottlenecks.
+- Performed Two-way ANOVA to analyze the impact of gas station location and vehicle type on waiting times.
+- Discovered that pickup trucks had significantly longer waits, prompting tailored strategies to address their needs.
+- Presented findings through data visualizations and proposed actionable improvements to streamline operations.
+
 ### Debt Repayment Outlook Tool
 - Developed advanced predictive model for identifying high-risk loan defaulters, integrating diverse data sources & sophisticated ML algorithms.
 - Conducted thorough data preprocessing, including missing value handling, duplicate removal, and feature engineering.
