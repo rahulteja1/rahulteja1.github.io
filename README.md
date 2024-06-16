@@ -39,8 +39,6 @@
 - Utilized the Joblib parallel processing library, including the Parallel and delayed features, to accelerate back testing, reducing evaluation time for multiple forecasting models against historical sales data.
 - Performed a robust back testing framework involving extensive historical data testing to validate the sales forecasting model's accuracy and performance, ensuring reliability and effectiveness.
 - Implemented XGBoost model to predict defaulters, yielding a commendable 0.76 AUC score, thereby enhancing professional strategies for engaging high-risk customers.
-![image](https://github.com/rahulteja1/rahulteja1.github.io/assets/98079530/f6cbd943-ba1d-4fd0-9016-3c8694f48540)
-
   
 **IT Engineer Intern @ Vinx Innovation Tech Solutions (_April 2021 - June 2021_)**
 - Developed a highly predictive neural network model by integrating seven vehicle speed and road grade predictors.
