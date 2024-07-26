@@ -33,20 +33,29 @@
 - M.S., Data Science	| Michigan Technological University (_April 2024_)	 			        		
 
 ## Work Experience
-**Data Science Intern @ Pitney Bowes (_July 2023 - August 2023_)**
+**Data Scientist @ Pitney Bowes (_July 2023 - August 2023_)**
 - Developed SQL queries to extract sales data from Snowflake for Python-based data analysis, optimizing data retrieval processes for efficiency and accuracy.
 - Developed and implemented time series forecasting models, such as auto ARIMA and Prophet, to accurately predict sales trends for a period of six months.
 - Utilized the Joblib parallel processing library, including the Parallel and delayed features, to accelerate back testing, reducing evaluation time for multiple forecasting models against historical sales data.
 - Performed a robust back testing framework involving extensive historical data testing to validate the sales forecasting model's accuracy and performance, ensuring reliability and effectiveness.
 - Implemented XGBoost model to predict defaulters, yielding a commendable 0.76 AUC score, thereby enhancing professional strategies for engaging high-risk customers.
+
+
+**Data Analyst I @ Fonker Solutions	 (_June 2020 – July 2022_)**
+- Employed web scraping techniques with Beautiful Soup to collect, pre-process data, and analysis of purchasing patterns and trends.
+- Utilized cutting-edge data visualization tools and techniques, including Power BI and Plotly (Python library), to create dynamic dashboards, enabling stakeholders to explore and analyse the complex purchasing patterns and trends.
+- Implemented sentiment analysis, employing machine learning algorithms such as Support Vector Machine and logistic regression to accurately predict and assess customer satisfaction levels, achieving an accuracy of 88%.
+- Leveraged advanced analytics to identify and mitigate negative sentiment, employing techniques such as Natural Language Processing and sentiment classification, resulting in a 20% improvement in customer satisfaction scores.
+- Demonstrated proficiency in agile development methodologies, continuously refining and optimizing solutions based on iterative feedback and data-driven insights.
+
   
-**Data Analyst @ Vinx Innovation Tech Solutions (_April 2021 - June 2021_)**
+**Data Analyst @ Vinx Innovation Tech Solutions (_April 2020 - May 2020_)**
 - Spearheaded the development of individualized machine learning models tailored to optimize fuel consumption for heavy vehicles, pioneering the utilization of vehicle travel distance as a key predictor.
 - Integrated seven predictive variables, including vehicle speed and road grade, into a highly accurate neural network architecture, enhancing the precision of fuel consumption predictions.
 - Conducted comprehensive evaluations of different window sizes for aggregating predictors over fixed distances traveled, optimizing fuel consumption predictions for routes encompassing city and highway duty cycle segments.
 - Achieved exceptional predictive performance with a 1 km window size, attaining a coefficient of determination of 0.91 and mean absolute percent error below 4%.
 
-**IT Engineer @ Smart Bridge Company (_April 2020 - May 2020_)**
+**Data Science Intern @ Smart Bridge Company (_April 2019 - May 2019_)**
 - Led the development and implementation of an Intelligent Alert System for forest tribal communities, leveraging neural networks and camera technology to detect and alert people to the presence of dangerous predators in real-time.
 - Demonstrated ability in machine learning and computer vision techniques, including training Convolutional Neural Networks (CNNs) to accurately identify and classify wildlife species from camera feeds, ensuring the reliability and effectiveness of the alerting system.
 - Identified and addressed challenges associated with deploying technology in remote forest environments, such as optimizing camera placement, mitigating false positives, and ensuring robustness against environmental factors.
