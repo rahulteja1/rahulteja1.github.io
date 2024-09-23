@@ -37,6 +37,7 @@ Outside of my professional life, I find inspiration in personal development book
 - How to Start a Conversation and Make Friends
 - How to Win Friends & Influence People
 - Believe & Achieve
+
 These books have taught me the value of small, consistent actions and the importance of building positive relationships. They motivate me to stay resilient, embrace growth, and create meaningful connections with others. By applying their lessons, I aim to improve my own journey and support those around me.
 
 I'm always eager to connect with like-minded professionals and explore opportunities to make a meaningful impact through data science. Let’s connect and explore how we can drive innovation together!
