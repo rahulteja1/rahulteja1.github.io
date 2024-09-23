@@ -15,23 +15,23 @@
 - ⚡ Fun fact **I'm a skilled 8-ball pool player and once cleared the table with a trick shot that left everyone at the table in awe—definitely a memorable game!**
 
 
-<h3 align="left">About</h3>
+<h3 align="left">About:</h3>
 I'm a passionate Data Scientist with a Master's in Data Science from Michigan Tech and a track record of transforming data into strategic insights. With over 3 years of experience, I've honed my skills in advanced statistical analysis, machine learning, and deep learning, consistently driving impactful results.
 
 I thrive in environments where I can blend technical expertise with strategic thinking to solve complex problems and uncover valuable insights. My experience spans diverse industries, allowing me to adapt and apply my skills to a wide range of challenges.
 
 What Drives Me:
-• Uncovering insights that drive business growth and efficiency.
-• Leveraging advanced analytics to solve real-world problems.
-• Continuously learning and applying new technologies and methods.
+- Uncovering insights that drive business growth and efficiency.
+- Leveraging advanced analytics to solve real-world problems.
+- Continuously learning and applying new technologies and methods.
 
 Core Competencies:
-• Data Analysis & Visualization
-• Machine Learning & Deep Learning
-• Predictive Modeling & Forecasting
-• Data-Driven Decision Making
+- Data Analysis & Visualization
+- Machine Learning & Deep Learning
+- Predictive Modeling & Forecasting
+- Data-Driven Decision Making
 
-Outside of my professional life, I find inspiration in personal development books like "The Compound Effect" and "The Positive Dog," which guide my approach to continuous improvement and maintaining a positive mindset.
+Outside of my professional life, I find inspiration in personal development books like "The Compound Effect," "The Positive Dog," "How to Start a Conversation and Make Friends," "How to Win Friends & Influence People," and "Believe & Achieve." These books have taught me the value of small, consistent actions and the importance of building positive relationships. They motivate me to stay resilient, embrace growth, and create meaningful connections with others. By applying their lessons, I aim to improve my own journey and support those around me.
 
 I'm always eager to connect with like-minded professionals and explore opportunities to make a meaningful impact through data science. Let’s connect and explore how we can drive innovation together!
 
