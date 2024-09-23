@@ -117,7 +117,7 @@ importance of guiding students toward a clear career path and providing the supp
 - Leading a team of 40 in organizing a successful Ganesh Festival, raising $5,000 through strategic fundraising. Demonstrated strong leadership and
 teamwork skills in enhancing community engagement and cultural celebration through effective event planning and execution.
 
-**Student SupervisorStudent Supervisor @ Michigan Technological UniversityMichigan Technological University (_Jan 2023 - Apr 2024_)**
+**Student Supervisor @ Michigan Technological University (_Jan 2023 - Apr 2024_)**
 - Managed a team of 20 folks in setting up dining services. I made sure to understand each person's strengths and assigned tasks accordingly. By doing this, we worked smoothly together, ensuring everyone did their best and contributed effectively to our dining setup.
 
 **Volunteer @ Michigan Tech SYP (_Apr 2023 - Jul 2023_)**
