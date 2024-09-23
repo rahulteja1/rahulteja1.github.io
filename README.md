@@ -108,6 +108,21 @@ healthcare innovation.
 - Communicated insights through scatter plots, histograms, and compared K-Means and Agglomerative clustering using metrics like silhouette analysis and Rand Index.
 - Demonstrated strong data analysis, problem-solving, communication, and critical evaluation skills.
 
+## Leadership & Entrepreneurial Initiatives:
+**Founder @ Neta Global Leadership (_November 2022 – Present_)**
+- Engaging data studentsin ethical data science, mentoring over 10 future leaders, and empowering them with today's technology. Recognizing the
+importance of guiding students toward a clear career path and providing the support they need to success.
+
+**Vice President @ Mahaveer Youth Association (_September 2018 – August 2022_)**
+- Leading a team of 40 in organizing a successful Ganesh Festival, raising $5,000 through strategic fundraising. Demonstrated strong leadership and
+teamwork skills in enhancing community engagement and cultural celebration through effective event planning and execution.
+
+**Student SupervisorStudent Supervisor @ Michigan Technological UniversityMichigan Technological University (_Jan 2023 - Apr 2024_)**
+- Managed a team of 20 folks in setting up dining services. I made sure to understand each person's strengths and assigned tasks accordingly. By doing this, we worked smoothly together, ensuring everyone did their best and contributed effectively to our dining setup.
+
+**Volunteer @ Michigan Tech SYP (_Apr 2023 - Jul 2023_)**
+- Volunteered in the Michigan Tech Student Youth Program, worked directly with 20 children for two weeks, gaining insight into their needs and aspirations. Provided guidance on career paths within the tech industry, helping them discover potential opportunities. Successfully empowered and inspired them to pursue their interests and maximize their potential.
+
 
 ## Publications
 1.  Rahul B., Tripti S., Rayaleswar M., Vaishnavi J., Surya T., Goutham T., Sahithi B., Praneeth K. – “Husky Voice - An Innovative Voice Assistant”,
