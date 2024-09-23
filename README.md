@@ -14,6 +14,32 @@
 
 - ⚡ Fun fact **I'm a skilled 8-ball pool player and once cleared the table with a trick shot that left everyone at the table in awe—definitely a memorable game!**
 
+
+<h3 align="left">About</h3>
+I'm a passionate Data Scientist with a Master's in Data Science from Michigan Tech and a track record of transforming data into strategic insights. With over 3 years of experience, I've honed my skills in advanced statistical analysis, machine learning, and deep learning, consistently driving impactful results.
+
+I thrive in environments where I can blend technical expertise with strategic thinking to solve complex problems and uncover valuable insights. My experience spans diverse industries, allowing me to adapt and apply my skills to a wide range of challenges.
+
+What Drives Me:
+• Uncovering insights that drive business growth and efficiency.
+• Leveraging advanced analytics to solve real-world problems.
+• Continuously learning and applying new technologies and methods.
+
+Core Competencies:
+• Data Analysis & Visualization
+• Machine Learning & Deep Learning
+• Predictive Modeling & Forecasting
+• Data-Driven Decision Making
+
+Outside of my professional life, I find inspiration in personal development books like "The Compound Effect" and "The Positive Dog," which guide my approach to continuous improvement and maintaining a positive mindset.
+
+I'm always eager to connect with like-minded professionals and explore opportunities to make a meaningful impact through data science. Let’s connect and explore how we can drive innovation together!
+
+<h3 align="left">Resume:</h3>
+<p align="left">
+<a href="Rahul_Teja_Bolloju_Resume.pdf" target="blank"><img align="center" src="images/resume logo2.png" alt="rahul teja bolloju" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rahul-teja-bolloju-48763917a/" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="rahul teja bolloju" height="30" width="40" /></a>
@@ -21,11 +47,6 @@
 <a href="https://github.com/rahulteja1" target="blank"><img align="center" src="images/Octicons-mark-github.svg" alt="rahul teja bolloju" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Resume:</h3>
-<p align="left">
-<a href="Rahul_Teja_Bolloju_Resume.pdf" target="blank"><img align="center" src="images/resume logo2.png" alt="rahul teja bolloju" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
