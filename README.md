@@ -42,10 +42,8 @@ These books have taught me the value of small, consistent actions and the import
 
 I'm always eager to connect with like-minded professionals and explore opportunities to make a meaningful impact through data science. Let’s connect and explore how we can drive innovation together!
 
-<h3 align="left">Resume:</h3>
-<p align="left">
-<a href="Rahul_Teja_Bolloju_Resume.pdf" target="blank"><img align="center" src="images/resume logo2.png" alt="rahul teja bolloju" height="30" width="40" /></a>
-</p>
+<h3 align="left">Resume:</h3><img align="center" src="images/resume logo2.png" alt="rahul teja bolloju" height="30" width="40" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
