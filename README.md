@@ -24,7 +24,7 @@
 
 <h3 align="left">Resume:</h3>
 <p align="left">
-<a href="Rahul_Teja_Bolloju_Resume.pdf" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="rahul teja bolloju" height="30" width="40" /></a>
+<a href="Rahul_Teja_Bolloju_Resume.pdf" target="blank"><img align="center" src="images/resume icons.png" alt="rahul teja bolloju" height="30" width="40" /></a>
 </p>
 
 
