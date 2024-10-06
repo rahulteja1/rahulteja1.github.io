@@ -71,7 +71,7 @@ I'm always eager to connect with like-minded professionals and explore opportuni
 - M.S., Data Science	| Michigan Technological University (_April 2024_)	 			        		
 
 ## Work Experience
-**Data Scientist @ Pitney Bowes (_July 2023 - August 2023_)**
+**Data Scientist @ [Pitney Bowes](https://www.pitneybowes.com) (_July 2023 - August 2023_)**
 - Developed SQL queries to extract sales data from Snowflake for Python-based data analysis, optimizing data retrieval processes for efficiency and accuracy.
 - Developed and implemented time series forecasting models, such as auto ARIMA and Prophet, to accurately predict sales trends for a period of six months.
 - Utilized the Joblib parallel processing library, including the Parallel and delayed features, to accelerate back testing, reducing evaluation time for multiple forecasting models against historical sales data.
