@@ -79,7 +79,7 @@ I'm always eager to connect with like-minded professionals and explore opportuni
 - Implemented XGBoost model to predict defaulters, yielding a commendable 0.76 AUC score, thereby enhancing professional strategies for engaging high-risk customers.
 
 
-**Data Analyst I @ Fonker Solutions	 (_June 2020 – July 2022_)**
+**Data Analyst I @ [Fonker Solutions](https://www.sulekha.com/fonkr-web-solutions-pvt-ltd-chaitanyapuri-colony-hyderabad-contact-address)	 (_June 2020 – July 2022_)**
 - Employed web scraping techniques with Beautiful Soup to collect, pre-process data, and analysis of purchasing patterns and trends.
 - Utilized cutting-edge data visualization tools and techniques, including Power BI and Plotly (Python library), to create dynamic dashboards, enabling stakeholders to explore and analyse the complex purchasing patterns and trends.
 - Implemented sentiment analysis, employing machine learning algorithms such as Support Vector Machine and logistic regression to accurately predict and assess customer satisfaction levels, achieving an accuracy of 88%.
@@ -87,13 +87,13 @@ I'm always eager to connect with like-minded professionals and explore opportuni
 - Demonstrated proficiency in agile development methodologies, continuously refining and optimizing solutions based on iterative feedback and data-driven insights.
 
   
-**Data Analyst @ Vinx Innovation Tech Solutions (_April 2020 - May 2020_)**
+**Data Analyst @ [Vinx Innovation Tech Solutions](https://www.vinxme.com/) (_April 2020 - May 2020_)**
 - Spearheaded the development of individualized machine learning models tailored to optimize fuel consumption for heavy vehicles, pioneering the utilization of vehicle travel distance as a key predictor.
 - Integrated seven predictive variables, including vehicle speed and road grade, into a highly accurate neural network architecture, enhancing the precision of fuel consumption predictions.
 - Conducted comprehensive evaluations of different window sizes for aggregating predictors over fixed distances traveled, optimizing fuel consumption predictions for routes encompassing city and highway duty cycle segments.
 - Achieved exceptional predictive performance with a 1 km window size, attaining a coefficient of determination of 0.91 and mean absolute percent error below 4%.
 
-**Data Science Intern @ Smart Bridge Company (_April 2019 - May 2019_)**
+**Data Science Intern @ [Smart Bridge Company](https://www.thesmartbridge.com/) (_April 2019 - May 2019_)**
 - Led the development and implementation of an Intelligent Alert System for forest tribal communities, leveraging neural networks and camera technology to detect and alert people to the presence of dangerous predators in real-time.
 - Demonstrated ability in machine learning and computer vision techniques, including training Convolutional Neural Networks (CNNs) to accurately identify and classify wildlife species from camera feeds, ensuring the reliability and effectiveness of the alerting system.
 - Identified and addressed challenges associated with deploying technology in remote forest environments, such as optimizing camera placement, mitigating false positives, and ensuring robustness against environmental factors.
@@ -101,27 +101,27 @@ I'm always eager to connect with like-minded professionals and explore opportuni
 - Delivered tangible results by significantly enhancing the safety and security of forest tribal communities, reducing the risk of wildlife-related incidents, and safeguarding valuable resources through the timely detection and alerting of dangerous predators
 
 ## Projects
-### Enhancing Gas Station Customer Experience through Waiting Time Analysis and Innovation 
+### [Enhancing Gas Station Customer Experience through Waiting Time Analysis and Innovation](https://github.com/rahulteja1/Enhancing-Gas-Station-Customer-Experience-through-Waiting-Time-Analysis-and-Innovation)
 - Spearheaded a project to enhance customer satisfaction at Houghton gas stations by reducing waiting times.
 - Conducted on-site observations, personally collected data by waiting at various gas stations to understand peak hours and service bottlenecks.
 - Performed Two-way ANOVA to analyze the impact of gas station location and vehicle type on waiting times.
 - Discovered that pickup trucks had significantly longer waits, prompting tailored strategies to address their needs.
 - Presented findings through data visualizations and proposed actionable improvements to streamline operations.
 
-### Debt Repayment Outlook Tool
+### [Debt Repayment Outlook Tool](https://github.com/rahulteja1/Loan-Performance-Prediction)
 - Developed advanced predictive model for identifying high-risk loan defaulters, integrating diverse data sources & sophisticated ML algorithms.
 - Conducted thorough data preprocessing, including missing value handling, duplicate removal, and feature engineering.
 - Explored and implemented both linear and non-linear classification models, optimizing parameters for enhanced performance.
 - Evaluated model performance using metrics such as ROC, sensitivity, specificity, and accuracy, identifying top-performing Logistic Regression and Penalized models.
 - Provided actionable insights on variable importance, aiding responsible lending practices and financial stability.
 
-### Time Series Forecasting for Mortality
+### [Time Series Forecasting for Mortality](https://github.com/rahulteja1/Time-Series-Forecasting-For-Mortality)
 - Analyzed the CDC's National Vital Statistics System dataset to identify causes of mortality in the US.
 - Using advanced ML techniques, I developed a regression dataset for time-series forecasting of mortality rates.
 - The evaluation of model performance aimed to enhance public health outcomes through evidence-based decision-making and fostering
 healthcare innovation.
 
-### Music Generation Using LSTM
+### [Music Generation Using LSTM](https://github.com/rahulteja1/Music-Generation-Using-LSTM)
 - Experienced in preparing and analyzing large datasets of MIDI files for machine learning models.
 - Using Python, TensorFlow, and Keras, I developed an LSTM deep neural network model for piano music analysis, optimizing its performance with Adamax and RMSprop algorithms.
 - To assess the model's performance, I evaluated it using the categorical cross-entropy loss. Project: Husky Voice (Information Systems Management and Data Analyst – team of 8)
@@ -148,17 +148,17 @@ importance of guiding students toward a clear career path and providing the supp
 - Leading a team of 40 in organizing a successful Ganesh Festival, raising $5,000 through strategic fundraising. Demonstrated strong leadership and
 teamwork skills in enhancing community engagement and cultural celebration through effective event planning and execution.
 
-**Student Supervisor @ Michigan Technological University (_Jan 2023 - Apr 2024_)**
+**Student Supervisor @ [Michigan Technological University](https://www.mtu.edu/) (_Jan 2023 - Apr 2024_)**
 - Managed a team of 20 folks in setting up dining services. I made sure to understand each person's strengths and assigned tasks accordingly. By doing this, we worked smoothly together, ensuring everyone did their best and contributed effectively to our dining setup.
 
-**Volunteer @ Michigan Tech SYP (_Apr 2023 - Jul 2023_)**
+**Volunteer @ [Michigan Tech SYP](https://www.mtu.edu/syp/) (_Apr 2023 - Jul 2023_)**
 - Volunteered in the Michigan Tech Student Youth Program, worked directly with 20 children for two weeks, gaining insight into their needs and aspirations. Provided guidance on career paths within the tech industry, helping them discover potential opportunities. Successfully empowered and inspired them to pursue their interests and maximize their potential.
 
 
 ## Publications
-1.  Rahul B., Tripti S., Rayaleswar M., Vaishnavi J., Surya T., Goutham T., Sahithi B., Praneeth K. – “Husky Voice - An Innovative Voice Assistant”,
+1.  Rahul B., Tripti S., Rayaleswar M., Vaishnavi J., Surya T., Goutham T., Sahithi B., Praneeth K. – [“Husky Voice - An Innovative Voice Assistant”](https://cdn.ymaws.com/mbaainternational.site-ym.com/resource/resmgr/2023_conference/archived_programs/MBAAI_program_2023_with_awar.pdf),
 2023 MBAA International Conference (Accepted for publication).
-2. Rahul B., Nagaraju M., "Digital Handwriting Recognition using Hand Tracking by using Media Pipe and OpenCV Libraries," International Journal for Research in Applied Science and Engineering Technology, (https://www.ijraset.com)
+2. Rahul B., Nagaraju M., ["Digital Handwriting Recognition using Hand Tracking by using Media Pipe and OpenCV Libraries"](https://www.ijraset.com/best-journal/digital-handwriting-recognition-using-hand-tracking-by-using-media-pipe-and-opencv-libraries) International Journal for Research in Applied Science and Engineering Technology, (https://www.ijraset.com)
 
 
 
