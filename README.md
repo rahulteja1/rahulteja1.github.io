@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Data Science Explorer: Unveiling Insights Through Analytics</h3>
+<h3 align="center">ANALYTICAL DATA SCIENCE STRATEGIST: Unveiling Insights Through Analytics</h3>
 
 <img align="right" width="300" src="https://github.com/rahulteja1/rahulteja1/assets/98079530/1317ae78-d335-48ec-b49e-d0dc9e1b2de1">
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Sales forecasting and forecasting models**
 
-- 📫 How to reach me **b.rahulteja01@gmail.com** 
+- 📫 How to reach me **rahultejabolloju@gmail.com** 
 
 - ⚡ Fun fact **I'm a skilled 8-ball pool player and once cleared the table with a trick shot that left everyone at the table in awe—definitely a memorable game!**
 
@@ -67,9 +67,6 @@ I'm always eager to connect with like-minded professionals and explore opportuni
 
 #### Technical Skills: Python, R, SQL, AZURE, AWS, Tableau, PowerBI
 
-## Education						       		
-- M.S., Data Science	| Michigan Technological University (_April 2024_)	 			        		
-
 ## Work Experience
 **Data Scientist @ [Pitney Bowes](https://www.pitneybowes.com) (_July 2023 - August 2023_)**
 - Developed SQL queries to extract sales data from Snowflake for Python-based data analysis, optimizing data retrieval processes for efficiency and accuracy.
@@ -100,6 +97,10 @@ I'm always eager to connect with like-minded professionals and explore opportuni
 - Worked closely with interdisciplinary teams, including wildlife experts, engineers, and local community members, to gather insights, develop solutions, and help the successful implementation of the Intelligent Alert System, effectively communicating technical concepts to diverse stakeholders.
 - Delivered tangible results by significantly enhancing the safety and security of forest tribal communities, reducing the risk of wildlife-related incidents, and safeguarding valuable resources through the timely detection and alerting of dangerous predators
 
+## Education						       		
+- M.S., Data Science	| Michigan Technological University (_April 2024_)
+
+
 ## Projects
 ### [Enhancing Gas Station Customer Experience through Waiting Time Analysis and Innovation](https://github.com/rahulteja1/Enhancing-Gas-Station-Customer-Experience-through-Waiting-Time-Analysis-and-Innovation)
 - Spearheaded a project to enhance customer satisfaction at Houghton gas stations by reducing waiting times.
@@ -129,24 +130,25 @@ healthcare innovation.
 - Integrated advanced features, such as personalized insights, transport timetables, and weather updates.
 - Conducted user feedback surveys to enhance effectiveness and identify preferred features, contributing to ongoing efforts to improve student success.
 
-### Fraud Detection using OpenCV
+### [Fraud Detection using OpenCV](https://github.com/rahulteja1/Fraud-Detection-Using-OpenCV)
 - Developed a phishing detection system using machine learning algorithms, OpenCV, scikit-image, and Python.
 - The system compares logos and User Interface elements on web pages with an existing dataset, employing the Structural Similarity Index (SSIM) method to detect image differences.
 - This implementation contributes to the ongoing efforts to combat online fraud and credit card fraud. 
 
-### RFM Analysis for Customer Segmentation
+### [RFM Analysis for Customer Segmentation](https://github.com/rahulteja1/RFM-Analysis-for-Customer-Segmentation)
 - Applied RFM and K-Means on Online Retail II data, resolving issues and finding optimal clusters with the Elbow method.
 - Communicated insights through scatter plots, histograms, and compared K-Means and Agglomerative clustering using metrics like silhouette analysis and Rand Index.
 - Demonstrated strong data analysis, problem-solving, communication, and critical evaluation skills.
 
 ## Leadership & Entrepreneurial Initiatives:
+**Leader @ Data Leadership (_August 2024 – Present_)**
+- "As a data leader, I foster a culture of data excellence, guiding teams to leverage data insights for strategic advantage while upholding the highest standards of data accuracy, security, and effective utilization to support organizational goals."
+
 **Founder @ Neta Global Leadership (_November 2022 – Present_)**
-- Engaging data studentsin ethical data science, mentoring over 10 future leaders, and empowering them with today's technology. Recognizing the
-importance of guiding students toward a clear career path and providing the support they need to success.
+- Engaging data students in ethical data science, mentoring over 10 future leaders, and empowering them with today's technology. Recognizing the importance of guiding students toward a clear career path and providing the support they need to success.
 
 **Vice President @ Mahaveer Youth Association (_September 2018 – August 2022_)**
-- Leading a team of 40 in organizing a successful Ganesh Festival, raising $5,000 through strategic fundraising. Demonstrated strong leadership and
-teamwork skills in enhancing community engagement and cultural celebration through effective event planning and execution.
+- Leading a team of 40 in organizing a successful Ganesh Festival, raising $5,000 through strategic fundraising. Demonstrated strong leadership and teamwork skills in enhancing community engagement and cultural celebration through effective event planning and execution.
 
 **Student Supervisor @ [Michigan Technological University](https://www.mtu.edu/) (_Jan 2023 - Apr 2024_)**
 - Managed a team of 20 folks in setting up dining services. I made sure to understand each person's strengths and assigned tasks accordingly. By doing this, we worked smoothly together, ensuring everyone did their best and contributed effectively to our dining setup.
