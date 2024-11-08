@@ -16,9 +16,8 @@
 
 
 <h3 align="left">About:</h3>
-I'm a passionate Data Scientist with a Master's in Data Science from Michigan Tech and a track record of transforming data into strategic insights. With over 3 years of experience, I've honed my skills in advanced statistical analysis, machine learning, and deep learning, consistently driving impactful results.
+Entrepreneurial driven, focused on leveraging data science and analytics to drive growth and innovation. Passionate about developing strategies that enhance business performance and help companies achieve their full potential through data-driven solutions.
 
-I thrive in environments where I can blend technical expertise with strategic thinking to solve complex problems and uncover valuable insights. My experience spans diverse industries, allowing me to adapt and apply my skills to a wide range of challenges.
 
 What Drives Me:
 - Uncovering insights that drive business growth and efficiency.
