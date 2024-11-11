@@ -141,7 +141,7 @@ healthcare innovation.
 
 ## Leadership & Entrepreneurial Initiatives:
 **Leader @ Data Leadership (_August 2024 – Present_)**
-- "As a data leader, I foster a culture of data excellence, guiding teams to leverage data insights for strategic advantage while upholding the highest standards of data accuracy, security, and effective utilization to support organizational goals."
+- As a data leader, I foster a culture of data excellence, guiding teams to leverage data insights for strategic advantage while upholding the highest standards of data accuracy, security, and effective utilization to support organizational goals.
 
 **Founder @ Neta Global Leadership (_November 2022 – Present_)**
 - Engaging data students in ethical data science, mentoring over 10 future leaders, and empowering them with today's technology. Recognizing the importance of guiding students toward a clear career path and providing the support they need to success.
