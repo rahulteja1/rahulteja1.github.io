@@ -43,7 +43,7 @@ I'm always eager to connect with like-minded professionals and explore opportuni
 
 <h3 align="left">Resume: </h3>
 <p align="left">
-<a href="Rahul_Teja_Bolloju_Resume.pdf" target="blank"><img align="center" src="images/resume logo2.png" alt="rahul teja bolloju" height="30" width="40" /></a>
+<!-- <a href="Rahul_Teja_Bolloju_Resume.pdf" target="blank"><img align="center" src="images/resume logo2.png" alt="rahul teja bolloju" height="30" width="40" /></a> -->
 </p>
 
 
