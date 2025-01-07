@@ -4,13 +4,13 @@
 
 <img align="right" width="300" src="https://github.com/rahulteja1/rahulteja1/assets/98079530/1317ae78-d335-48ec-b49e-d0dc9e1b2de1">
 
-- 🔭 I’m currently working on **British Airways customer feedback to improve decisions**
+- 🔭 I’m currently working on **Customer feedback to improve decisions**
 
 - 🌱 I’m currently learning **Optimization algorithms for data science applications**
 
 - 💬 Ask me about **Sales forecasting and forecasting models**
 
-- 📫 How to reach me **bollojurahulteja16@gmail.com** 
+- 📫 How to reach me **bollojurahulteja@gmail.com** 
 
 - ⚡ Fun fact **I'm a skilled 8-ball pool player and once cleared the table with a trick shot that left everyone at the table in awe—definitely a memorable game!**
 
